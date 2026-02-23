@@ -1,11 +1,10 @@
 {
 	"id": "autotagger",
 	"name": "autotagger",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Adds an automation, which autotags words in Obsidian. Also allows to run a command, to scan the vault to retag every word.",
+	"author": "ButcherLTh",
+	"authorUrl": "github.com/ButcherLTh",
 	"isDesktopOnly": false
 }
