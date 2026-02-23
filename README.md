@@ -1,6 +1,6 @@
 Hi,
 
-With the help of Claudi Haiku 4.5 I changed the basis of the sample-plugin provided by Obsidian.md to a working autotagger.
+With the help of Claude Haiku 4.5 I changed the basis of the sample-plugin provided by Obsidian.md to a working autotagger.
 Since this is my first coding project. I commented on every line, to explain it to myself. 
 
 Whenever you define a new tag, the plugin scrapes your vault for any matching words (regardless of lower or upper case) and tags them as well. 
